@@ -1,0 +1,2 @@
+int tampilan();
+int bye();

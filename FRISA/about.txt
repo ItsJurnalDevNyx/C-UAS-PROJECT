@@ -1,0 +1,22 @@
+﻿                  F A S T   R E S C U E S   I N T E L L I G E N C E   S M A R T   A M B U L A N C E              
+                  ╔════════════╗   ╔════════════════╗    ╔════╗    ╔═══════════════╗    ╔══════════════╗         
+                  ║ ████████████|  ║ ████████████████|   ║ ████|   ║ ███████████████|   ║ ██████████████|        
+                  ║ ████████████:  ║ ████████████████:   ║ ████:   ║ ███████████████:   ║ ██████████████:        
+                  ║ ████|          ║ █████      █████|   ║ ████|   ║ ████|              ║ █████    █████|        
+                  ║ ████████████:  ║ █████      █████:   ║ ████:   ║ ████:              ║ █████    █████:        
+                  ║ ████████████:  ║ ████████████████:   ║ ████:   ║ ███████████████:   ║ ██████████████:        
+                  ║ ████|          ║ ████████████████|   ║ ████|   ║ ███████████████|   ║ ██████████████|        
+                  ║ ████:          ║ ███  ╚╗████:        ║ ████:   ╚══════════╗ ████:   ║ ██████████████:        
+                  ║ ████|          ║ ███   ╚═╗████|      ║ ████|   ╔══════════╝ ████|   ║ █████  ║ █████|        
+                  ║ ████:          ║ ███     ╚═╗████:    ║ ████:   ║ ███████████████:   ║ █████  ║ █████:        
+                  ╚═████|          ╚═███       ╚═████|   ╚═████|   ╚═███████████████|   ╚═█████  ╚═█████|        
+                                                                                                                 
+             FRISA adalah aplikasi yang ditujukan untuk pelayanan publik.    CREDITS BY  : Dede Jurnal Kurniadi    
+             Cepat tepat dan safety, Tujuan aplikasi frisa ini yakni         INSPIRED BY : BLITZZ                  
+             sebagai sarana dan prasarana pemanggilan ambulan tanpa          INSTAGRAM   : Porago_Mark                          
+             administrasi langsung sehingga pengguna dapat bebas dan                                             
+             tertib untuk memanggil ambulans dalam keadaan yang diperlukan                                         
+                                                                                                                   
+             Dengan FRISA, diharapkan proses penanganan darurat medis dapat dilakukan                              
+             lebih efisien, responsif, dan terkoordinasi antara pengguna, rumah sakit,                             
+             serta tenaga medis terkait.                                                                           

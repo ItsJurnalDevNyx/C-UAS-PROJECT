@@ -1,0 +1,54 @@
+﻿  admin.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\admin.c(59,3): warning C4013: 'getch' undefined; assuming extern returning int
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\admin.c(23,7): warning C4101: 'username': unreferenced local variable
+  component.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(252,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(286,20): warning C4028: formal parameter 1 different from declaration
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(286,6): warning C4029: declared formal parameter list different from definition
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(288,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(864,33): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(865,34): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(868,64): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(869,60): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(870,65): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(879,9): warning C4013: 'getch' undefined; assuming extern returning int
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(917,17): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(920,18): warning C4033: 'formdaftar' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(923,18): warning C4033: 'formdaftar' must return a value
+  function.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\function.c(68,9): warning C4013: 'getch' undefined; assuming extern returning int
+  main.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\main.c(17,21): warning C4013: 'getch' undefined; assuming extern returning int
+  sql.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(185,8): warning C4013: 'getch' undefined; assuming extern returning int
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1142,13): warning C4244: '=': conversion from 'my_ulonglong' to 'int', possible loss of data
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1297,23): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1310,3): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1320,3): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1331,20): warning C4013: '_getch' undefined; assuming extern returning int
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1338,3): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1352,3): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1366,3): warning C4033: 'hapus_ambulans_dan_supir' must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(2066,7): warning C4101: 'nama': unreferenced local variable
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(2066,17): warning C4101: 'alamat': unreferenced local variable
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(2107,7): warning C4101: 'nama': unreferenced local variable
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(2107,17): warning C4101: 'alamat': unreferenced local variable
+  supir.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\supir.c(53,3): warning C4013: 'getch' undefined; assuming extern returning int
+  tampilan.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\tampilan.c(46,61): warning C4013: 'getch' undefined; assuming extern returning int
+  user.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\user.c(54,12): warning C4013: 'getch' undefined; assuming extern returning int
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\user.c(21,7): warning C4101: 'formnama': unreferenced local variable
+  validasi.c
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\validasi.c(16,14): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating Code...
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\user.c(58,1): warning C4716: 'formlogin': must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\supir.c(56,1): warning C4715: 'formloginsupir': not all control paths return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\sql.c(1374,1): warning C4716: 'hapus_ambulans_dan_supir': must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\function.c(95,1): warning C4715: 'menu_user': not all control paths return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\function.c(135,1): warning C4715: 'menu_supir': not all control paths return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\component.c(925,1): warning C4716: 'formdaftar': must return a value
+C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\FRISA\admin.c(202,1): warning C4716: 'menu_akun': must return a value
+  LINK : C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\x64\Debug\FRISA.exe not found or not built by the last incremental link; performing full link
+  FRISA.vcxproj -> C:\INI FILE PENTING DOMIX\domiX\domiXpahatop\DEDE JURNAL KURNIADI\FRISA\x64\Debug\FRISA.exe

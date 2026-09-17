@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\lib.obj",
+            "outputs": [
+                "x64\\Debug\\lib.h_64BA5F4F8355A57C.ifc.dt.module.json",
+                "x64\\Debug\\lib.h_64BA5F4F8355A57C.ifc.dt.d.json",
+                "x64\\Debug\\lib.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\INI FILE PENTING DOMIX\\domiX\\domiXpahatop\\FRISA\\FRISA\\lib.h",
+                    "source-path": "c:\\ini file penting domix\\domix\\domixpahatop\\frisa\\frisa\\lib.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿START
+│
+├── LOGIN / REGISTER
+│
+├── PILIH ROLE
+│   ├── ADMIN
+│   ├── SUPIR
+│   └── USER
+│
+├── AKSI SESUAI ROLE
+│
+└── LOGOUT / EXIT
+
+
+if (loginsupir_sql()) {
+    menu_supir();
+}
+else {
+    printf("Email atau password salah!");
+}

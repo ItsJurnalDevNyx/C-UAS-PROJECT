@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FRISA/FRISA.vcxproj" Id="fb9ea3c1-9b12-49b2-a50d-d25dd12c866f" />
+</Solution>

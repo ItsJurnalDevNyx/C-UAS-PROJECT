@@ -1,0 +1,9 @@
+extern int SESSION_LOGIN;
+extern int SESSION_ID_USER;
+extern char SESSION_NAMA[100];
+extern int SESSION_ID_SUPIR;
+extern int SESSION_ID_LAPORAN;
+extern int SESSION_ADMIN_LOGIN;
+extern int SESSION_ID_ADMIN;
+extern char SESSION_ADMIN_NAMA[100];
+extern int SESSION_ID_SUPIR;
